@@ -33,7 +33,7 @@ based on a paraphraser, and utilize it to design our watermarking method:
 python LSPara_Multi_with_bart_until_target_no_suffix.py en2en 'A good subject to start.' 'good' 2 20 
 ```
 
-## Embedding nd Extract watermarks 
+## Embedding and Extract watermarks 
 ```shell
 python run_watermark_no_substitutable.py
 ```
