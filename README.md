@@ -23,7 +23,7 @@ based on a paraphraser, and utilize it to design our watermarking method:
 - [BERTScore](https://pypi.org/project/bert-score/0.2.1/)
 
 ### Dataset
-- [three novels](https://www.gutenberg.org/) (Wuthering Heights”, “Dracula”, and “Pride and Prejudice)
+- [three novels](https://www.gutenberg.org/) (Wuthering Heights, Dracula, and Pride and Prejudice)
 - [others](https://huggingface.co/datasets) (WikiText-2, IMDB, and NgNews)
 
 
