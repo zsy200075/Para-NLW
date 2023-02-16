@@ -45,7 +45,7 @@ python calculate_others.py
 
 ## Citation
 ```
-@article{qiang2022chinese,
+@article{qiang2022watermark,
     title={Natural Language Watermarking via Paraphraser-based Lexical Substitution},
     author={Jipeng Qiang, Shiyu Zhu, Yun Li, Yi Zhu, Yunhao Yuan, Xindong Wu},
     journal={Artificial Intelligence},
